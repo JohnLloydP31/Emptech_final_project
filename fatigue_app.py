@@ -14,7 +14,8 @@ st.write("Group Members:.")
 st.write("ANGELO DAN RENZ DELLOSON")
 st.write("Jeremy John Orlina")
 st.write("John Lloyd Padrigano")
-st.write("\Upload an image to detect 'awake' or 'fatigued' faces.")
+st.write("")
+st.write("Upload an image to detect 'awake' or 'fatigued' faces.")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
